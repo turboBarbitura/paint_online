@@ -35,12 +35,14 @@
     background: url("../assets/img/line.png") no-repeat center center;
   }
   .undo {
+    margin-left: auto;
     background: url("../assets/img/undo.png") no-repeat center center;
   }
   .redo {
     background: url("../assets/img/redo.png") no-repeat center center;
   }
   .save {
+    margin-right: 10px;
     background: url("../assets/img/save.png") no-repeat center center;
   }
 
